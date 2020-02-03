@@ -8,6 +8,6 @@ Tested with Qt 5.12.6.
 
 
 ## WIP
-..* Add DBC file loader and parser
-..* Add graph visualizer of data 
-..* Add data logger capability
+  * Add DBC file loader and parser
+  * Add graph visualizer of data 
+  * Add data logger capability
