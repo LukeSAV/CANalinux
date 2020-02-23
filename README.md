@@ -3,6 +3,14 @@ This repository contains a simple utility for reading/writing single CAN FD fram
 
 Tested with Qt 5.12.6.
 
+Additional dependencies:
+```bash
+$ apt-get install build-essential
+$ apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+```
+Then simply clone this repository and add the GCC/G++ compiler to your Kit in Qt Creator or preferred IDE.
+
+
 ## Screenshots
 ![CANalinux home page](https://github.com/LukeSAV/canalinux/blob/master/img/canalinux_home.png)
 
